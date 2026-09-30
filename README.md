@@ -47,6 +47,5 @@ This repository contains my solutions for the SQL fundamentals assignment. The q
 The full queries are in [`sales_queries.sql`](sales_queries.sql).
 
 ## Author
-**Name:** _Your Name_
-**Course:** _Course Name_
-**Date:** _Submission Date_
+**Name:** Ayom Leek
+**Course:** Sql database management
